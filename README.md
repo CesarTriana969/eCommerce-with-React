@@ -1,6 +1,7 @@
 # My Awesome App
 
-¡Bienvenido a mi aplicación! Esta aplicación fue creada con Vite y React.
+¡Bienvenido a mi aplicación! Esta es una aplicación en donde el usuario puede loguearse, ver y filtrar productos, añadirlos al carrito y comprarlos. Esta aplicación fue creada con Vite y React.
+
 
 ## Available Scripts
 
