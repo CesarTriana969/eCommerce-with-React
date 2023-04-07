@@ -1,4 +1,4 @@
-# My Awesome App
+# e-commerce App
 
 ¡Bienvenido a mi aplicación! Esta es una aplicación en donde el usuario puede loguearse, ver y filtrar productos, añadirlos al carrito y comprarlos. Esta aplicación fue creada con Vite y React.
 
